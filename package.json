@@ -1,6 +1,6 @@
 {
   "name": "Discord-Coin",
-  "version": "1.0",
+  "version": "0.0.1",
   "description": "A cyptocurrency for Discord.",
   "main": "main.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "https://github.com/CP3D/Discord-Coin"
   },
-  "author": "Lemmmy",
+  "author": "Original by Lemmy, modified by CP3D",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/CP3D/Discord-Coin/issues"
