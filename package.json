@@ -1,21 +1,21 @@
 {
-  "name": "Krist",
-  "version": "2.0.6",
-  "description": "The new Krist node written in node.js.",
+  "name": "Discord-Coin",
+  "version": "1.0",
+  "description": "A cyptocurrency for Discord.",
   "main": "main.js",
   "scripts": {
     "convertdb": "node convertdb.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Lemmmy/Krist"
+    "url": "https://github.com/CP3D/Discord-Coin"
   },
   "author": "Lemmmy",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/Lemmmy/Krist/issues"
+    "url": "https://github.com/CP3D/Discord-Coin/issues"
   },
-  "homepage": "https://github.com/Lemmmy/Krist",
+  "homepage": "https://github.com/CP3D/Discord-Coin",
   "dependencies": {
     "bluebird": "^3.2.1",
     "body-parser": "^1.14.2",
