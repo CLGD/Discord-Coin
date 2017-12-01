@@ -2,7 +2,7 @@
 
 ## Information
 
-Discord Coin is a /decentralized/ cryptocurrency, basted on [Lemmmy/Krist](https://github.com/Lemmmy/Krist), intended to be used in Discord.
+Discord Coin is a *centralized* cryptocurrency, basted on [Lemmmy/Krist](https://github.com/Lemmmy/Krist), intended to be used in Discord.
 
 ## Start Server
 
